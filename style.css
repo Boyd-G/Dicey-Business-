@@ -1,0 +1,25 @@
+body {
+    font-family: Anton', sans-serif;
+  }
+  
+  button {
+    display: inline-block;
+  }
+  
+  .die {
+    width: 5em;
+    height: 5em;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 1em;
+    margin: 1em;
+  }
+  
+  .die p {
+    width: fit-content;
+    height: fit-content;
+    padding: 2em 0;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+  }
